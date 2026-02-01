@@ -1,0 +1,14 @@
+target/
+reports/
+*.log
+*.tmp
+*.class
+*.iml
+.idea/
+.vscode/
+
+# Generated test outputs
+generated-tests/
+
+# Local API key file (keep placeholder only)
+src/test/java/com/example/config.properties
